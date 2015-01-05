@@ -4,7 +4,7 @@
   src: url('../fonts/custom-font.eot?42403618#iefix') format('embedded-opentype'),
        url('../fonts/custom-font.woff?42403618') format('woff'),
        url('../fonts/custom-font.ttf?42403618') format('truetype'),
-       url('../fonts/custom-font.svg?42403618#fontello') format('svg');
+       url('../fonts/custom-font.svg?42403618') format('svg');
   font-weight: normal;
   font-style: normal;
 }
