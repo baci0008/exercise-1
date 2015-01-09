@@ -17,6 +17,9 @@ html {
 	box-sizing: inherit;
 }
 
+a {
+	text-decoration: none;
+}
 
 .main-icon-wrap {
 	text-align: center;
@@ -35,7 +38,7 @@ html {
 	text-align: center;
 	position: relative;
 	z-index: 1;
-	color: #C0F;	
+	color: #6CC;	
 }
 
 .main-icon:after {
@@ -53,7 +56,7 @@ html {
 .main-icon:before {
 	font-family: 'custom-font';
 	speak: none;
-	font-size: 48px;
+	font-size: 100px;
 	line-height: 90px;
 	font-style: normal;
 	font-weight: normal;
@@ -65,4 +68,28 @@ html {
 
 .main-icon-play:before {
 	content: '\e800';
+}
+
+.main-icon-crown:before {
+	content: '\e801';
+}
+
+.main-icon-heart:before {
+	content: '\e802';
+}
+
+.main-icon-cloud:before {
+	content: '\e803';
+}
+
+.main-icon-pin:before {
+	content: '\e804';
+}
+
+.main-icon-phone:before {
+	content: '\e805';
+}
+
+.main-icon-globe:before {
+	content: '\e806';
 }
